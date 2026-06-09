@@ -1,4 +1,4 @@
-8-Bit ALU Design with AI-Assisted Testbench Generation
+**8-Bit ALU Design with AI-Assisted Testbench Generation**
 
 **Overview**
 
@@ -33,10 +33,10 @@ This project implements an 8-bit Arithmetic Logic Unit (ALU) using Verilog HDL. 
 - full reprt available here
 - 8-bit ALU Project report
 
-#Results
+**Results**
 
 The ALU was successfully simulated and verified using EPWave. Waveforms confirmed correct execution of all supported operations.
 
-#Author
+**Author**
 
 Tejas

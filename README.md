@@ -39,4 +39,4 @@ The ALU was successfully simulated and verified using EPWave. Waveforms confirme
 
 **Author**
 
-Tejas
+Tejas Raj Pandey

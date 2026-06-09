@@ -28,6 +28,10 @@ Files
 - alu-tb.v – Testbench
 - Screenshot (40).png – Simulation Result
 - Screenshot (41).png – Waveform Output
+- 8-bit Alu design report
+- # Project reprt
+- full reprt available here
+- 8-bit ALU Project report
 
 Results
 

@@ -1,23 +1,38 @@
+8-Bit ALU Design with AI-Assisted Testbench Generation
 
-## Operations Supported
+Overview
 
-1. Addition
-2. Subtraction
-3. AND
-4. OR
-5. XOR
-6. NOT
-7. Left Shift
-8. Right Shift
+This project implements an 8-bit Arithmetic Logic Unit (ALU) using Verilog HDL. The ALU performs arithmetic and logical operations and is verified using a custom testbench.
 
-## Features
+Operations Supported
 
-- 8-bit ALU
-- Carry Flag
-- Zero Flag
+- Addition
+- Subtraction
+- AND
+- OR
+- XOR
+- NOT
+- Left Shift
+- Right Shift
+
+Tools Used
+
 - Verilog HDL
-- Functional Verification using Testbench
+- EDA Playground
+- Icarus Verilog
+- EPWave
 
-## Author
+Files
+
+- alu-8bit.v – ALU Design
+- alu-tb.v – Testbench
+- Screenshot (40).png – Simulation Result
+- Screenshot (41).png – Waveform Output
+
+Results
+
+The ALU was successfully simulated and verified using EPWave. Waveforms confirmed correct execution of all supported operations.
+
+Author
 
 Tejas

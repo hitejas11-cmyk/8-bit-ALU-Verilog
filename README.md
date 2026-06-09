@@ -4,7 +4,7 @@ Overview
 
 This project implements an 8-bit Arithmetic Logic Unit (ALU) using Verilog HDL. The ALU performs arithmetic and logical operations and is verified using a custom testbench.
 
-Operations Supported
+#Operations Supported
 
 - Addition
 - Subtraction
@@ -15,14 +15,14 @@ Operations Supported
 - Left Shift
 - Right Shift
 
-Tools Used
+#Tools Used
 
 - Verilog HDL
 - EDA Playground
 - Icarus Verilog
 - EPWave
 
-Files
+#Files
 
 - alu-8bit.v – ALU Design
 - alu-tb.v – Testbench
@@ -33,10 +33,10 @@ Files
 - full reprt available here
 - 8-bit ALU Project report
 
-Results
+#Results
 
 The ALU was successfully simulated and verified using EPWave. Waveforms confirmed correct execution of all supported operations.
 
-Author
+#Author
 
 Tejas
